@@ -4,7 +4,7 @@ class Dog
     fido = Dog.new("Fido")
   fido.name
 fido.name=("Fido")
-fido.instance_variable_get(:@name)
+fido.instance_variable_get(@name)
  end
 end
  
