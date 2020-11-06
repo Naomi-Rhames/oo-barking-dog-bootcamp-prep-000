@@ -3,7 +3,7 @@ class Dog
     @name = new_name
     fido = Dog.new("Fido")
   fido.name
-fido.name = "Yeezy"
+fido.name = "Fido"
  end
 end
  
