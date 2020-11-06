@@ -5,7 +5,6 @@ class Dog
   fido.name
 fido.name = "Fido"
  end
- fido.name=("Fido")
 end
  
  
